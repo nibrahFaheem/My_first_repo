@@ -1,3 +1,4 @@
 # My_first_repo
 This is my first git repository
-Author - Nibrah Faheem
+<br>
+Author - <em>Nibrah Faheem</em>
